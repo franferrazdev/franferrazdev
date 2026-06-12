@@ -1,4 +1,4 @@
-## Olá, eu sou a Francielle Ferraz de Sousa 👋
+## 👩‍💻 Olá, eu sou a Francielle Ferraz de Sousa 
 
 Desenvolvedora **Front-End Junior**, com **preferência e foco especial no ecossistema Next.js**, onde mais gosto de trabalhar e onde desenvolvo meu melhor código. Crio interfaces modernas, performáticas, organizadas e acessíveis, explorando ao máximo os recursos da ferramenta para otimizar renderização, carregamento e experiência do usuário. 🚀​
 
@@ -8,12 +8,48 @@ Meu jeito de trabalhar é **100% alinhado ao modelo remoto e assíncrono**, onde
 
 ### 🛠️​ Minhas Tecnologias
 
-- 🎯 **Front-End (Foco Principal):** `TypeScript`, `React`, **`Next.js`** ⭐, `JavaScript (ES6+)`, `Tailwind CSS`, `CSS3`, `HTTM5`.
+- 🎯 **Front-End (Foco Principal):**
+<div style="display: inline_block"><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" align="center" alt="TypeScript Icon" height="30" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"  align="center" alt="React Icon" height="30" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"  align="center" alt="NextJS Icon" height="30" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  align="center" alt="JavaScript Icon" height="30" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"  align="center" alt="TailwindCSS Icon" height="30" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"  align="center" alt="CSS3 Icon" height="30" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"  align="center" alt="HTML5 Icon" height="30" width="40" margin-bottom="5px" />
+<br></div>
+  
   > 💡 *O Next.js é a minha principal ferramenta: amo sua estrutura, organização e poder de criação, que combinam exatamente com o meu jeito de pensar e desenvolver.*
-- 📦 **Back-End & Banco de Dados (Conhecimento de Suporte):** `Node.js`, `Prisma`, `PostgreSQL`, `Supabase`.
-- 🧰 **Ferramentas & Boas Práticas:** `Git`, `GitHub`, `VS Code`, `Componentização`, `Design Responsivo`, `Código Limpo e Tipado`.
+</div>
+
+- 📦 **Back-End & Banco de Dados (Conhecimento de Suporte):**
+<div style="display: inline_block"><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" align="center" alt="NodeJS Icon" height="30" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" align="center" alt="Prisma Icon" height="30" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"  align="center" alt="PostgreSQL Icon" height="30" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" align="center" alt="Supabase Icon" height="30" width="40" margin-bottom="5px" />
+<br>
+</div>
+
+- 🧰 **Ferramentas & Componentes:**
+<div style="display: inline_block" ><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" align="center" alt="Git Icon" height="30" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" align="center" alt="GitHub Icon" height="30" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" align="center" alt="VsCode Icon" height="30" width="40" />
+<img src="https://sad-olive-fyectb7v.edgeone.app/logo-shadcn-ui.png" align="center" alt="Shadcn/UI Icon" height="30" width="40" margin-bottom="5px" />
+<br></div>
+
+
   > 💡 *Tenho visão completa do desenvolvimento: sei como integrar, estruturar dados e pensar o produto como um todo, mesmo atuando prioritariamente no Front-end.*
 
+
+- **Boas Práticas:** `Componentização`, `Design Responsivo`, `Código Limpo e Tipado`.
+
+<div>
+<a href="https://beacons.ai/franferrazdev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=franferrazdev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franferrazdev&layout=compact&langs_count=16&theme=radical" />
+</div>
 ---
 
 ## 📚 Formação & Conhecimento
@@ -64,18 +100,3 @@ Estou pronta para contribuir com organização, qualidade e dedicação total.
 📫 **Contato:**
 - ✉️ **LinkedIn:** https://www.linkedin.com/in/francielle-ferraz-de-sousa-franferrazdev
 - ​🔗 **E-mail:** franferraz.dev@gmail.com
-
-<!--
-**franferrazdev/franferrazdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
