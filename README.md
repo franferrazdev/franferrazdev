@@ -15,7 +15,7 @@ Como profissional **neurodivergente (TEA)**, transformo hiperfoco, lógica apura
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"  align="center" alt="TailwindCSS Icon" height="25" width="35" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"  align="center" alt="CSS3 Icon" height="25" width="35" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"  align="center" alt="HTML5 Icon" height="25" width="35" margin-bottom="5px" />
-<br></div>
+</div><br>
   
 > 💡 *O Next.js é a minha principal ferramenta: amo sua estrutura, organização e poder de criação, que combinam exatamente com o meu jeito de pensar e desenvolver.*
 
@@ -25,8 +25,7 @@ Como profissional **neurodivergente (TEA)**, transformo hiperfoco, lógica apura
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" align="center" alt="Prisma Icon" height="25" width="35" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"  align="center" alt="PostgreSQL Icon" height="25" width="35" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" align="center" alt="Supabase Icon" height="25" width="35" margin-bottom="5px" />
-<br>
-</div>
+</div><br>
 
 - 🧰 **Ferramentas & Componentes:**
 <div style="display: inline_block"><br>
@@ -34,9 +33,11 @@ Como profissional **neurodivergente (TEA)**, transformo hiperfoco, lógica apura
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" align="center" alt="GitHub Icon" height="25" width="35" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" align="center" alt="VsCode Icon" height="25" width="35" />
 <img src="https://sad-olive-fyectb7v.edgeone.app/logo-shadcn-ui.png" align="center" alt="Shadcn/UI Icon" height="25" width="35" margin-bottom="5px" />
-<br></div>
+</div><br>
 
 > 💡 *Tenho visão completa do desenvolvimento: sei como integrar, estruturar dados e pensar o produto como um todo, mesmo atuando prioritariamente no Front-end.*
+
+<br>
 
 - **Boas Práticas:** `Componentização`, `Design Responsivo`, `Código Limpo e Tipado`.
 
