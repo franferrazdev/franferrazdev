@@ -39,7 +39,7 @@ Como profissional **neurodivergente (TEA)**, transformo hiperfoco, lógica apura
 
 <br>
 
-- **Boas Práticas:** `Componentização`, `Design Responsivo`, `Código Limpo e Tipado`.
+- **Boas Práticas:** `Testes Unitários`, `Componentização`, `Design Responsivo`, `Código Limpo e Tipado`.
 
 ---
 
@@ -50,6 +50,7 @@ Conheça o meu repositório central de estudos, onde centralizo anotações prof
 👉 **[meu-guia-dev](https://github.com)**
 
 **Tópicos detalhados no repositório:**
+*   **Testes Unitários & Qualidade de Código:** Garantia de funcionamento com Jest e React Testing Library (RTL).
 *   **Gerenciamento de Estado & Data Fetching:** Zustand e TanStack Query (React Query).
 *   **Autenticação & Segurança:** NextAuth e Criptografia de senhas com Bcrypt.js.
 *   **Integrações Avançadas:** Gateways de Pagamento (Stripe), BaaS (Supabase) e Validação de Esquemas (Zod).
