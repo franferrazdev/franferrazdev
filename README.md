@@ -17,7 +17,7 @@ Como profissional **neurodivergente (TEA)**, transformo hiperfoco, lógica apura
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"  align="center" alt="HTML5 Icon" height="25" width="35" margin-bottom="5px" />
 </div><br>
   
-> 💡 *O Next.js é a minha principal ferramenta: amo sua estrutura, organização e poder de criação, que combinam exatamente com o meu jeito de pensar e desenvolver.*
+> 💡 O React é a minha base sólida de desenvolvimento, e o Next.js é a minha principal escolha de framework: amo a estrutura, a organização e o poder de criação que essa combinação oferece para criar aplicações web completas.*
 
 - 📦 **Back-End & Banco de Dados (Conhecimento de Suporte):**
 <div style="display: inline_block"><br>
