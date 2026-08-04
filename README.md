@@ -1,6 +1,6 @@
 ## 👩‍💻 Olá, eu sou a Francielle Ferraz de Sousa 
 
-Desenvolvedora **Front-End Junior** com foco especialista no ecossistema **Next.js**. Crio interfaces modernas, performáticas, organizadas e acessíveis, otimizando renderização e a experiência do usuário. 🚀
+Desenvolvedora React / Front-End Junior especialista no ecossistema Next.js. Crio interfaces modernas, performáticas, organizadas e acessíveis, dominando o gerenciamento de estado, otimização de renderização e a experiência do usuário. 🚀
 
 Como profissional **neurodivergente (TEA)**, transformo hiperfoco, lógica apurada e atenção extrema aos detalhes em código limpo, estruturado e de alta qualidade. Atuo com máxima eficiência no modelo **100% remoto**, entregando autonomia e comunicação escrita impecável. 🧠✨
 
