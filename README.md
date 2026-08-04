@@ -27,30 +27,30 @@ Como profissional **neurodivergente (TEA)**, transformo hiperfoco, lógica apura
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" align="center" alt="Supabase Icon" height="25" width="35" margin-bottom="5px" />
 </div><br>
 
-- 🧰 **Ferramentas & Componentes:**
+- 🧰 **Ferramentas, Componentes & Testes:**
 <div style="display: inline_block"><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" align="center" alt="Git Icon" height="25" width="35" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" align="center" alt="GitHub Icon" height="25" width="35" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" align="center" alt="VsCode Icon" height="25" width="35" />
-<img src="https://sad-olive-fyectb7v.edgeone.app/logo-shadcn-ui.png" align="center" alt="Shadcn/UI Icon" height="25" width="35" margin-bottom="5px" />
+<img src="https://sad-olive-fyectb7v.edgeone.app/logo-shadcn-ui.png" align="center" alt="Shadcn/UI Icon" height="25" width="35" />
 </div><br>
 
 > 💡 *Tenho visão completa do desenvolvimento: sei como integrar, estruturar dados e pensar o produto como um todo, mesmo atuando prioritariamente no Front-end.*
 
 <br>
 
-- **Boas Práticas:** `Testes Unitários`, `Componentização`, `Design Responsivo`, `Código Limpo e Tipado`.
+- **Boas Práticas:** `Testes Unitários e E2E`, `Componentização`, `Design Responsivo`, `Código Limpo e Tipado`.
 
 ---
 
-### 📖 Minha Enciclopédia Técnica
+### 📖 Minha Enciclopédia Técnico-Profissional
 
 Conheça o meu repositório central de estudos, onde centralizo anotações profundas, comandos essenciais, padrões de arquitetura e guias práticos obtidos diretamente das documentações oficiais:
 
 👉 **[meu-guia-dev](https://github.com)**
 
 **Tópicos detalhados no repositório:**
-*   **Testes Unitários & Qualidade de Código:** Garantia de funcionamento com Jest e React Testing Library (RTL).
+*   **Qualidade de Código & Testes:** Garantia de funcionamento com Testes Unitários (Jest + RTL) e Testes End-to-End (Playwright).
 *   **Gerenciamento de Estado & Data Fetching:** Zustand e TanStack Query (React Query).
 *   **Autenticação & Segurança:** NextAuth e Criptografia de senhas com Bcrypt.js.
 *   **Integrações Avançadas:** Gateways de Pagamento (Stripe), BaaS (Supabase) e Validação de Esquemas (Zod).
@@ -81,7 +81,6 @@ Conheça o meu repositório central de estudos, onde centralizo anotações prof
 *Projeto autoral voltado para o Enem e Vestibulares com foco em aprendizado passo a passo e impacto social por meio de voluntariado.*
 *   **Status:** 🛠️ Em desenvolvimento ativo. O **Front-End completo e a interface de usuário (UI)** estão públicos e disponíveis para validação técnica no repositório.
 *   **Tech Stack:** Next.js, TypeScript, TailwindCSS.
-
 
 ---
 
